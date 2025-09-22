@@ -1,5 +1,5 @@
 "use client";
-import { useChat } from 'ai/react';
+import { useChat } from '@vercel/ai/react';
 import { useState } from 'react';
 
 export default function ChatPage() {
